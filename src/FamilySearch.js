@@ -103,7 +103,6 @@ require('./modules/sources');
 require('./modules/spouses');
 require('./modules/users');
 require('./modules/utilities');
-require('./modules/node-only');
 
 // These files contain class definitions
 require('./classes/base');
