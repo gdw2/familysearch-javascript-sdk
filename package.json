@@ -17,8 +17,7 @@
   "main": "src/FamilySearch.js",
   "dependencies": {
     "es6-promise": "3.0.2",
-    "isomorphic-fetch": "2.1.1",
-    "ursa": "^0.9.1"
+    "isomorphic-fetch": "2.1.1"
   },
   "devDependencies": {
     "browserify": "12.0.1",
